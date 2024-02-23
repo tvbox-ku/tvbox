@@ -2,98 +2,98 @@
     "urls":[
        
         {
-            "url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew.json",
-            "name": " 集简秒播"
+        	"url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew.json",
+            	"name": " 集简秒播"
         },	
    
         {
-            "url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew1.json",
-            "name": "集简阿里"
+            	"url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew1.json",
+            	"name": "集简阿里"
         },
 
         {
-            "url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew2.json",
-            "name": "集简短剧"
+            	"url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew2.json",
+            	"name": "集简短剧"
         },
 
          {
-            "url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew3.json",
-            "name": "集简动漫"
+            	"url": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/JJHJ/jdnew3.json",
+            	"name": "集简动漫"
         },
 
         {
-			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-			"name": "👑新夜猫子👑"
+	    	"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+		"name": "👑新夜猫子👑"
 	},
 		
 	{
-			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-			"name": "👑夜猫少儿👑"
+		"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+		"name": "👑夜猫少儿👑"
 	},
 
 	{
-			"url": "https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json",
-			"name": "👑短剧专线👑"
+		"url": "https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json",
+		"name": "👑短剧专线👑"
 	},
 
 	{
-			"url": "http://ysc.weixine.net:88/荷城茶秀",
-			"name": "👑荷城茶秀👑"
+		"url": "http://ysc.weixine.net:88/荷城茶秀",
+		"name": "👑荷城茶秀👑"
 	},
 
 	{
-			"url": "http://xhww.fun:63/小米/DEMO.json",
-			"name": "👑小暴脾气👑"
+		"url": "http://xhww.fun:63/小米/DEMO.json",
+		"name": "👑小暴脾气👑"
 	},
 
 	{
-			"url": "http://饭太硬.top/tv",
-			"name": "👑饭有点硬👑"
+		"url": "http://饭太硬.top/tv",
+		"name": "👑饭有点硬👑"
 	},
 
 	{
-			"url": "http://fan.xxooo.cf/tv",
-			"name": "👑饭硬到底👑"
+		"url": "http://fan.xxooo.cf/tv",
+		"name": "👑饭硬到底👑"
 	},
 
 	{
-			"url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-			"name": "👑最爱香佬👑"
+		"url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+		"name": "👑最爱香佬👑"
 	},
 
         {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长线路"
+            	"url": "https://pastebin.com/raw/5NHaxyGR",
+            	"name": "道长线路"
         },
 
         {
-            "url": "https://gitee.com/tvbox-ku/ysc/raw/master/tvbox/mdxgh.json",
-            "name": "🎆接口01🎆"
+            	"url": "https://gitee.com/tvbox-ku/ysc/raw/master/tvbox/mdxgh.json",
+            	"name": "🎆接口01🎆"
         },
 
         {
-            "url":"https://gitee.com/tvbox-ku/ysc/raw/master/tvbox/Yoursmile.json",
-            "name": "🎆接口02🎆"
+            	"url": "https://gitee.com/tvbox-ku/ysc/raw/master/tvbox/Yoursmile.json",
+            	"name": "🎆接口02🎆"
         },
 
         {
-            "url":"",
-            "name":""
+            	"url":"",
+            	"name":""
         },
 
         {
-            "url":"",
-            "name":""
+            	"url":"",
+            	"name":""
         },
 
         {
-            "url":"",
-            "name":""
+           	"url":"",
+            	"name":""
         },
 
         {
-            "url":"",
-            "name":""
+            	"url":"",
+            	"name":""
         }
 
    ]
