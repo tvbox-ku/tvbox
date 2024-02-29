@@ -1,11 +1,14 @@
 {"urls": [
-
-            {
-                        http://饭太硬.top/tv
-                        },
-            {
-                        https://jihulab.com/z-blog/vip/-/raw/main/xyq/t.json
-                        },
+	{
+            "url": " http://饭太硬.top/tv",
+            "name": "🚀饭太硬"
+        },
+	{
+            "url": "  https://jihulab.com/z-blog/vip/-/raw/main/xyq/t.json",
+            "name": "🚀z-blog"
+        },
+          
+          
            
 
 
