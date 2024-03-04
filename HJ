@@ -1,0 +1,103 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]//
+{
+	"urls": [
+        
+		{
+			"url": "https://agit.ai/66666/xbpq/raw/branch/master/ziyong.json",
+			"name": "18+1"
+		},
+		
+		{
+			"url": "https://agit.ai/66666/xbpq/raw/branch/master/sm.json",
+			"name": "18+2"
+		},
+		
+		{
+			"url": "https://d.kstore.space/download/6622/010/tvbox/json/18.json",
+			"name": "18+3"
+		},
+
+        {
+			"url": "https://d.kstore.space/download/6622/010/xiaodian.json",
+			"name": "18+4"
+		},
+
+        {
+			"url": "https://agit.ai/66666/xbpq/raw/branch/master/sm.json",
+			"name": "18+5"
+		}, 
+
+        {
+            "url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json",
+            "name": "🕍默认线路"
+        },
+        
+
+       {    "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
+            "name": "free" 
+        },
+        
+        {   "url": "https://github.com/heroaku/TVboxo/raw/main/Text/ptest.json",
+            "name": "tvbox3" 
+        },
+
+        {   "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
+            "name": "hu" 
+         },
+
+        {   "url": "https://pastebin.com/raw/RAHbbAVa",
+            "name": "rahbb"  
+        },
+
+        {   "url": "https://agit.ai/cjh198488/TVboxo3/raw/branch/main/Text/tes.json",
+            "name": "TVboxo"  
+        },
+
+        {
+            "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/18.json",
+            "name": "老司机1"
+        },
+
+        {
+            "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/lao1.txt",
+            "name": "老司机2"
+        },
+        
+        {
+            "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/lao3json",
+            "name": "老司机3"
+        },
+
+        {
+            "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/lao4.json",
+            "name": "老司机4"
+        },
+        
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "老司机5"
+        },
+
+        {
+            "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/%E8%80%816.json",
+            "name": "老司机6"
+        },
+
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "ch猫友"
+        },
+       
+        
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "吾爱"
+        },
+
+        {
+            "url": "http://111.67.196.181/mtv/270.txt",
+            "name": "�270"
+        }
+		
+	]
+}
