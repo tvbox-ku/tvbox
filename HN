@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视IPV6,#genre#
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
@@ -138,8 +138,30 @@ CGTN法语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+央卫IPV4,#genre#
+CCTV1,http://42.49.189.17:9008/tsfile/live/0001_1.m3u8
+CCTV2,http://42.49.189.17:9008/tsfile/live/0002_1.m3u8
+CCTV3,http://42.49.189.17:9008/tsfile/live/0003_1.m3u8
+CCTV4,http://42.49.189.17:9008/tsfile/live/0004_1.m3u8
+CCTV5,http://42.49.189.17:9008/tsfile/live/0005_1.m3u8
+CCTV6,http://42.49.189.17:9008/tsfile/live/0006_1.m3u8
+CCTV7,http://42.49.189.17:9008/tsfile/live/0007_1.m3u8
+CCTV8,http://42.49.189.17:9008/tsfile/live/0008_1.m3u8
+CCTV9,http://42.49.189.17:9008/tsfile/live/0009_1.m3u8
+CCTV10,http://42.49.189.17:9008/tsfile/live/0010_1.m3u8
+CCTV11,http://42.49.189.17:9008/tsfile/live/0011_1.m3u8
+CCTV12,http://42.49.189.17:9008/tsfile/live/0012_1.m3u8
+CCTV13,http://42.49.189.17:9008/tsfile/live/0013_1.m3u8
+CCTV14,
+CCTV15,http://42.49.189.17:9008/tsfile/live/0015_1.m3u8
+CCTV16,
+CCTV17,
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+辽宁卫视,http://42.49.189.17:9008/tsfile/live/0121_1.m3u8
+安徽卫视,http://42.49.189.17:9008/tsfile/live/0130_1.m3u8
+广东卫视,http://42.49.189.17:9008/tsfile/live/0125_1.m3u8
 
-卫视频道,#genre#
+卫视IPV6,#genre#
 凤凰中文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
